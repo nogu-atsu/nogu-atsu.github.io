@@ -1,6 +1,3 @@
-# About me
-???
-
 # Education
 - April 2018 - Now: Graduate School of Information Science and Technology, The University of Tokyo. (東京大学大学院情報理工学系研究科)
 - April 2014 - March 2018: Faculty of Engineering, The University of Tokyo
