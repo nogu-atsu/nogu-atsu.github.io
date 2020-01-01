@@ -1,6 +1,7 @@
 # Education
 - April 2018 - Present: Graduate School of Information Science and Technology, The University of Tokyo (東京大学大学院情報理工学系研究科).
-- April 2014 - March 2018: Faculty of Engineering, The University of Tokyo (東京大学工学部).
+- April 2016 - March 2018: Faculty of Engineering, The University of Tokyo (東京大学工学部).
+- April 2014 - March 2016: College of Arts and Sciences, The University of Tokyo (東京大学教養学部).
 
 # Publications
 - <u>Atsuhiro Noguchi</u>, Tatsuya Harada. RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis. International Conference on Learning Representations (ICLR), 2020. [[link]](https://arxiv.org/abs/1909.12573)
