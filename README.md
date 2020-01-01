@@ -16,7 +16,7 @@
 
 # Work Experiences
 - November 2018 - March 2019: Preferred Networks, Inc. Part-time Engineer.
-- July 2018 - September 2018 : Preferred Networks, Inc. Machine Learning Engineer Internship.
+- July 2018 - September 2018: Preferred Networks, Inc. Machine Learning Engineer Internship.
 
 # Awards
 - January 2020 - December 2020: Microsoft Research Asia Collaborative Research 2020 Grant (D-CORE) Award
