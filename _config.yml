@@ -1,2 +1,8 @@
 theme: jekyll-theme-slate
 title: Atsuhiro Noguchi
+
+github:
+  is_project_page: true
+  owner_name: 'Atsuhiro Noguchi'
+  
+copyright: 'Copyright 2019 and 2020, Atsuhiro Noguchi'
