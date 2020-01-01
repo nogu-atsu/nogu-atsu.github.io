@@ -1,5 +1,14 @@
 theme: jekyll-theme-minimal
 title: Atsuhiro Noguchi
+author:
+  name: "Atsuhiro Noguchi"
+#   avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Somewhere"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nogu-atsu"
 github:
   is_project_page: false
 copyright: 'Copyright 2019 and 2020, Atsuhiro Noguchi'
