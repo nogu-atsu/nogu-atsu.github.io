@@ -19,6 +19,6 @@
 - July 2018 - September 2018 : Preferred Networks, Inc. Machine Learning Engineer Internship.
 
 # Awards
-- January 2020 - December 2020: Microsoft Research Asia Collaborative Research 2020 Grant (D-CORE) Awards
+- January 2020 - December 2020: Microsoft Research Asia Collaborative Research 2020 Grant (D-CORE) Award
 - April 2019 - March 2020: Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher (トヨタ・ドワンゴ高度人工知能人材奨学金).
 - March 2018: The Japan Society of Mechanical Engineers (JSME) Hatakeyama Award 2017 (日本機械学会畠山賞).
