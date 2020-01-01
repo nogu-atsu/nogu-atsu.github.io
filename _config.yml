@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Atsuhiro Noguchi
 github:
   is_project_page: false
+show_downloads: true
 copyright: 'Copyright 2019 and 2020, Atsuhiro Noguchi'
