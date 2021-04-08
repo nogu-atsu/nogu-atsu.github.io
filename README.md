@@ -17,6 +17,7 @@
 - <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation From Small Datasets via Batch Statistics Adaptation. PRMU, 2019 [[link]](https://www.ieice.org/ken/program/index.php?tgs_regid=9c4b1e7a01870119429e03e5996c8b7205108719ec69e7e644185c0e8fe30ac7&tgid=IEICE-PRMU)
 
 # Work Experiences
+- April 2021 - July 2021: NVIDIA, Internship.
 - April 2020 - November 2020: RIKEN AIP (理化学研究所　革新知能統合研究センター), Part-time Researcher
 - November 2018 - March 2019: Preferred Networks, Inc., Part-time Engineer.
 - July 2018 - September 2018: Preferred Networks, Inc., Machine Learning Engineer Internship.
