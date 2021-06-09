@@ -18,6 +18,7 @@
 
 # Work Experiences
 - April 2021 - July 2021: NVIDIA, Research Internship.
+- April 2020 - March 2021: IST-RA (博士課程学生特別リサーチ・アシスタント)
 - April 2020 - November 2020: RIKEN AIP (理化学研究所　革新知能統合研究センター), Part-time Researcher
 - November 2018 - March 2019: Preferred Networks, Inc., Part-time Engineer.
 - July 2018 - September 2018: Preferred Networks, Inc., Machine Learning Engineer Internship.
