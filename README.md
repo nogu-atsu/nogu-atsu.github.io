@@ -26,9 +26,7 @@
 # Awards, Scholarship, and others
 - April 2021 - March 2023: Japan Society for the Promotion of Scienece (JSPS) Research Fellowship for Young Scientists (DC2)
 - April 2020 - March 2021: Graduate School of Information Science and Technology Doctoral Student Special Incentives Program (IST-RA)
-- April 2020 - March 2021: Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher (トヨタ・ドワンゴ高度人工知能人材奨学金).
 - January 2020 - December 2020: Microsoft Research Asia Collaborative Research 2020 Grant (D-CORE) Award
-- April 2019 - March 2020: Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher (トヨタ・ドワンゴ高度人工知能人材奨学金).
 - March 2018: The Japan Society of Mechanical Engineers (JSME) Hatakeyama Award 2017 (日本機械学会畠山賞).
 
 
