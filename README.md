@@ -4,10 +4,10 @@
 - April 2014 - March 2018: Undergraduate student, Mechano-Informatics, The University of Tokyo (東京大学工学部).
 
 # Publications
-- <u>Atsuhiro Noguchi</u>, Xiao Sun, Stephen Lin, Tatsuya Harada. Neural Articulated Radiance Field. IEEE International Conference on Computer Vision (ICCV), 2021. [[link]](https://arxiv.org/abs/2104.03110)
+- <u>Atsuhiro Noguchi</u>, Xiao Sun, Stephen Lin, Tatsuya Harada. Neural Articulated Radiance Field. International Conference on Computer Vision (ICCV), 2021. [[link]](https://arxiv.org/abs/2104.03110)
 - <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation from Small Datasets via Batch Statistics Adaptation. Journal of the Imaging Society of Japan (日本画像学会誌), 2020, 59.6: 607-616. [[link]](https://www.jstage.jst.go.jp/article/isj/59/6/59_607/_article/-char/ja)
 - <u>Atsuhiro Noguchi</u>, Tatsuya Harada. RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis. International Conference on Learning Representations (ICLR), 2020. [[link]](https://arxiv.org/abs/1909.12573)
-- <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation From Small Datasets via Batch Statistics Adaptation. IEEE International Conference on Computer Vision (ICCV), 2019. [[link]](https://arxiv.org/abs/1904.01774)
+- <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation From Small Datasets via Batch Statistics Adaptation. International Conference on Computer Vision (ICCV), 2019. [[link]](https://arxiv.org/abs/1904.01774)
 
 # Competitions
 - The 5th place in the Visual Question Answering (VQA) Challenge 2018 in CVPR2018. Mikihiro Tanaka, <u>Atsuhiro Noguchi</u>, Kohei Uehara, Lisa Kawai, Yoshitaka Ushiku, Tatsuya Harada. [[link]](https://visualqa.org/challenge_2018.html)
