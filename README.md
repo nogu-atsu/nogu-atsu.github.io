@@ -4,7 +4,7 @@
 - April 2014 - March 2018: Undergraduate student, Mechano-Informatics, The University of Tokyo (東京大学工学部).
 
 # Publications
-- <u>Atsuhiro Noguchi</u>, Umar Iqbal, Jonathan Tremblay, Tatsuya Harada, Orazio Gallo.Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects. 2021. [[paper]](https://arxiv.org/abs/2112.11347)[[Project page]](https://nvlabs.github.io/watch-it-move/)
+- <u>Atsuhiro Noguchi</u>, Umar Iqbal, Jonathan Tremblay, Tatsuya Harada, Orazio Gallo.Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects. Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [[paper]](https://arxiv.org/abs/2112.11347)[[Project page]](https://nvlabs.github.io/watch-it-move/)
 - <u>Atsuhiro Noguchi</u>, Xiao Sun, Stephen Lin, Tatsuya Harada. Neural Articulated Radiance Field. International Conference on Computer Vision (ICCV), 2021. [[paper]](https://arxiv.org/abs/2104.03110)
 - <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation from Small Datasets via Batch Statistics Adaptation. Journal of the Imaging Society of Japan (日本画像学会誌), 2020, 59.6: 607-616. [[paper]](https://www.jstage.jst.go.jp/article/isj/59/6/59_607/_article/-char/ja)
 - <u>Atsuhiro Noguchi</u>, Tatsuya Harada. RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis. International Conference on Learning Representations (ICLR), 2020. [[paper]](https://arxiv.org/abs/1909.12573)
