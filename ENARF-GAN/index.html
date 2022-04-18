@@ -26,8 +26,8 @@
                 3</sup> </h5>
             <p><sup>1</sup>The University of Tokyo, <sup>2</sup>Microsoft Research Asia, <sup>3</sup>RIKEN</p>
             <p><a class="btn btn-secondary btn-lg" href="https://arxiv.org/abs/??????" role="button">Paper</a> <a
-                class="btn btn-secondary btn-lg" href="https://github.com/????????" role="button">Code</a> </p>
-
+                class="btn btn-secondary btn-lg" href="https://github.com/nogu-atsu/ENARF-GAN" role="button">Code</a>
+            </p>
           </div>
         </div>
       </div>
@@ -42,6 +42,13 @@
           <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
             <source src="images/teaser_2.mp4#t=0.001" type="video/mp4">
           </video>
+          <p class="text-left">
+            ENARF-GAN learns pose-controllable and geometry-aware 3D representations for articulated objects without
+            supervision. It only takes various unlabeled single-view RGB images and a pose prior distribution for
+            training, and learns to generate color and density fields of the objects. ENARF-GAN can learn disentangled
+            representations for the appearance, viewpoint, and object pose, which is visualized in the videos on the
+            left.
+          </p>
           <br><br>
           <h2>Abstract</h2>
           <p class="text-left">We propose an unsupervised method for 3D geometry-aware representation learning of
@@ -67,7 +74,32 @@
           <h2>Method</h2>
           <hr style="margin-top:0px">
           <p class="text-left">
+            To achieve efficient GAN training, we first propose a novel implicit representation for articulated objects
+            called Efficient-NARF (ENARF), which is an extension of <a
+              href="https://github.com/nogu-atsu/NARF">NARF</a>.
+            The model pipeline is visualized in the bellow figure. ENARF follows an
+            efficient tri-plane based 3D representation proposed in <a
+              href="https://matthew-a-chan.github.io/EG3D/">EG3D</a>, and extend it to articulated objects. We use
+            tri-planes to represent hidden features and part probability of arbitrary 3D locations in the
+            canonical space. We sample the feature and probability of each part at the input location, which are
+            combined
+            and converted to color and density of that location with a small MLP.
+            Thanks to the explicit tri-plane representation, we can reduce the computational complexity significantly.
           </p>
+          <img src="images/ENARF.png" width="80%" />
+          <br>
+          <p class="text-left">
+            To train ENARF without supervision, we propose GAN-based training of it.
+            A generator generates images of articulated objects from randomly sampled latent vectors and pose, and is
+            trained by GAN objective.
+            The generator consists of two networks: a foreground generator and a background generator G<sub>b</sub>.
+            The foreground generator network further consists of a tri-plane generator G<sub>tri</sub> and ENARF
+            G<sub>ENARF</sub>.
+            ENARF-based generator G<sub>ENARF</sub> generates the foreground RGB image and mask from the randomly
+            generated tri-planes from G<sub>tri</sub>, and the background generator G<sub>b</sub> generates background
+            RGB image. The final output RGB image is a composite of the foreground and background images.
+          </p>
+          <img src="images/ENARF-GAN.png" width="80%" />
         </div>
       </div>
       <div class="row" style="margin-top:5px">
