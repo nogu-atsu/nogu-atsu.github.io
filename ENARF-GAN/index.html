@@ -84,9 +84,10 @@
             canonical space. We sample the feature and probability of each part at the input location, which are
             combined
             and converted to color and density of that location with a small MLP.
-            Thanks to the explicit tri-plane representation, we can reduce the computational complexity significantly.
+            Thanks to the explicit tri-plane representation, we can reduce the computational complexity significantly compared to NARF.
           </p>
           <img src="images/ENARF.png" width="80%" />
+          <br>
           <br>
           <p class="text-left">
             To train ENARF without supervision, we propose GAN-based training of it.
