@@ -83,7 +83,7 @@
             tri-planes to represent hidden features and part probability of arbitrary 3D locations in the
             canonical space. We sample the feature and probability of each part at the input location, which are
             combined
-            and converted to color and density of that location with a small MLP.
+            and converted to the color and density of that location with a small MLP.
             Thanks to the explicit tri-plane representation, we can reduce the computational complexity significantly
             compared to NARF.
           </p>
@@ -92,8 +92,8 @@
           <br>
           <p class="text-left">
             To train ENARF without supervision, we propose GAN-based training of it.
-            A generator generates images of articulated objects from randomly sampled latent vectors and pose, and is
-            trained by GAN objective.
+            A generator generates images of articulated objects from randomly sampled latent vectors and poses, and is
+            trained by the GAN objective.
             The generator consists of two networks: a foreground generator and a background generator G<sub>b</sub>.
             The foreground generator network further consists of a tri-plane generator G<sub>tri</sub> and ENARF
             G<sub>ENARF</sub>.
@@ -125,7 +125,7 @@
               href="https://www.di.ens.fr/willow/research/surreal/data/">SURREAL</a> and <a
               href="https://google.github.io/aistplusplus_dataset/factsfigures.html">AIST++</a> datasets are shown in
             the bellow videos. ENARF-GAN can disentangle appearance, viewpoint, and object pose from images without
-            using image-paired supervision such as annotations of object's keypoint and foreground mask.
+            using supervision such as annotations of object's keypoint and foreground mask for each image.
           </p>
           <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
             <source src="images/result_video.mp4#t=0.001" type="video/mp4">
