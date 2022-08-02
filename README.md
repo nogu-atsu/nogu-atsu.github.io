@@ -17,7 +17,7 @@
 
 # Invited Talks
 - <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation From Small Datasets via Batch Statistics Adaptation. PRMU, 2019. [[link]](https://www.ieice.org/ken/program/index.php?tgs_regid=9c4b1e7a01870119429e03e5996c8b7205108719ec69e7e644185c0e8fe30ac7&tgid=IEICE-PRMU)
-- <u>Atsuhiro Noguchi</u>, Xiao Sun, Stephen Lin, Tatsuya Harada. MIRU, 2022. [[link]](https://sites.google.com/view/miru2022)
+- <u>Atsuhiro Noguchi</u>, Xiao Sun, Stephen Lin, Tatsuya Harada. Neural Articulated Radiance Field. MIRU, 2022. [[link]](https://sites.google.com/view/miru2022)
 
 # Work Experiences
 - April 2021 - July 2021: NVIDIA, Research Internship.
