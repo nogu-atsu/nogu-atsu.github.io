@@ -16,8 +16,9 @@
 - The 4th place in the fine-grained food classification (iFood) Challenge 2018 in CVPR2018. <u>Atsuhiro Noguchi</u>, Rishabh Gupta, Kuniaki Saito, Tatsuaki Machida, Teppei Kanayama, Yoshitaka Ushiku, Tatsuya Harada. [[link]](https://www.kaggle.com/c/ifood2018)
 
 # Invited Talks
-- <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation From Small Datasets via Batch Statistics Adaptation. PRMU, 2019. [[link]](https://www.ieice.org/ken/program/index.php?tgs_regid=9c4b1e7a01870119429e03e5996c8b7205108719ec69e7e644185c0e8fe30ac7&tgid=IEICE-PRMU)
+- <u>Atsuhiro Noguchi</u>, Xiao Sun, Stephen Lin, Tatsuya Harada. Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations. PRMU, 2022. [[link]](https://ken.ieice.org/ken/program/index.php?tgs_regid=5cde2e21cf20d81cf68d77a9979b128ed6d1e81aeb5ed9d23b14f6578293e45d&tgid=IEICE-PRMU)
 - <u>Atsuhiro Noguchi</u>, Xiao Sun, Stephen Lin, Tatsuya Harada. Neural Articulated Radiance Field. MIRU, 2022. [[link]](https://sites.google.com/view/miru2022)
+- <u>Atsuhiro Noguchi</u>, Tatsuya Harada. Image Generation From Small Datasets via Batch Statistics Adaptation. PRMU, 2019. [[link]](https://www.ieice.org/ken/program/index.php?tgs_regid=9c4b1e7a01870119429e03e5996c8b7205108719ec69e7e644185c0e8fe30ac7&tgid=IEICE-PRMU)
 
 # Work Experiences
 - April 2021 - July 2021: NVIDIA, Research Internship.
