@@ -1,5 +1,6 @@
 # Education
 - April 2020 - Present: Ph. D. student, Graduate School of Information Science and Technology, The University of Tokyo (東京大学大学院情報理工学系研究科).
+- February 2023: Visiting Student Research Collaborators (VSRC), Princeton University.
 - April 2018 - March 2020: Master’s student, Graduate School of Information Science and Technology, The University of Tokyo (東京大学大学院情報理工学系研究科).
 - April 2014 - March 2018: Undergraduate student, Mechano-Informatics, The University of Tokyo (東京大学工学部).
 
