@@ -28,6 +28,7 @@
 - July 2018 - September 2018: Preferred Networks, Inc., Machine Learning Engineer Internship.
 
 # Awards and others
+- March 2023: Dean's Award for Academic Achievement at Graduate School of Information Science and Technology, The University of Tokyo. (情報理工学系研究科長賞)
 - April 2021 - March 2023: Japan Society for the Promotion of Scienece (JSPS) Research Fellowship for Young Scientists (DC2)
 - April 2020 - March 2021: Graduate School of Information Science and Technology Doctoral Student Special Incentives Program (IST-RA)
 - January 2020 - December 2020: Microsoft Research Asia Collaborative Research 2020 Grant (D-CORE) Award
@@ -35,4 +36,4 @@
 
 
 --------
-last update: March 8, 2023
+last update: March , 2023
