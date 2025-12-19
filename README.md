@@ -23,6 +23,7 @@
 
 # Work Experiences
 - April 2023 - : Preferred Networks, Inc., Researcher.
+- February 2023 - March 2023: Princeton University, Visiting Student Research Collaborator
 - April 2021 - July 2021: NVIDIA, Research Internship.
 - April 2020 - November 2020: RIKEN AIP (理化学研究所　革新知能統合研究センター), Part-time Researcher
 - November 2018 - March 2019: Preferred Networks, Inc., Part-time Engineer.
